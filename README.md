@@ -1,0 +1,1 @@
+I am a PhD student in Computer Science at the University of Catania from the end of 2021. I am currently researching on improving the automation of fuzzing in terms of applicability. I am also interested in the IoT Security and Quantum Security fields. I am a member of the Network and Security Informatics research group led by prof. Giampaolo Bella, which is my supervisor.
