@@ -1,2 +1,5 @@
-I am pursuing my PhD studies at the University of Catania since the end of 2021, in the Network and Security Informatics research group led by prof. Giampaolo Bella, who serves as my supervisor. Last but not least, I am delighted to be on a research visit at King’s College London under the guidance of Prof. Fabio Pierazzi.
-Interests: Fuzzing, Systems Security, Reinforcement Learning, Generative AI, IoT Security, Space Security
+PhD candidate researching Fuzzing and System Security.
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcellomaugeri&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marcellomaugeri&theme=transparent)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marcellomaugeri&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marcellomaugeri&theme=transparent)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marcellomaugeri&theme=transparent&utcOffset=8)
