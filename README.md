@@ -1,4 +1,9 @@
-
+Hello, I'm Marcello, a PhD student in Computer Science at the University of Catania.
+I am passionate about automated security testing for software and systems, with a focus on developing tools and techniques to improve the automation of security testing processes.
+My current research project focuses on improving coverage-guided fuzzing for multi-process Linux applications, with the aim of increasing the effectiveness of fuzz testing in identifying security vulnerabilities.
+However, I am actively exploring other areas such as fuzzing IoT devices or fuzzing web applications, including the use of AI/ML techniques to improve the efficiency and effectiveness of fuzz testing.
+I am driven by curiosity and a desire to learn, and I am always looking for new challenges and opportunities to expand my knowledge and skills.
+My ultimate goal is to contribute to the development of more automated security testing tools and techniques that can help organisations better protect their systems and data from security threats.
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:marcello.maugeri@phd.unict.it)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcello-maugeri/)
