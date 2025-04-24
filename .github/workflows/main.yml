@@ -1,0 +1,17 @@
+name: generator
+on:
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    name: jobs to update the readme
+    runs-on: ubuntu-latest
+    steps:
+      # Snake Animation
+      - uses: Platane/snk@v3.3.0
+        id: snake-gif
+  
+        with:
+          github_user_name: marcellomaugeri
+          svg_out_path: dist/github-contribution-grid-snake.svg
