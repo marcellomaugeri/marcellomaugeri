@@ -17,4 +17,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=marcellomaugeri&theme=transparent)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Snake animation](https://github.com/marcellomaugeri/marcellomaugeri/dist/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/marcellomaugeri/marcellomaugeri/blob/output/github-contribution-grid-snake.svg)
