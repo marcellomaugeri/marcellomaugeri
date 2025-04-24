@@ -9,7 +9,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/maray97/)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/maray97)
 
-
+![Snake animation](https://github.com/marcellomaugeri/marcellomaugeri/blob/output/github-contribution-grid-snake-dark.svg)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcellomaugeri&layout=compact&langs_count=10&theme=transparent)
 
@@ -17,4 +17,3 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=marcellomaugeri&theme=transparent)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Snake animation](https://github.com/marcellomaugeri/marcellomaugeri/blob/output/github-contribution-grid-snake.svg)
