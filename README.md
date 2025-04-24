@@ -17,7 +17,6 @@ My ultimate goal is to contribute to the development of more automated security 
 ![Snake animation](https://github.com/marcellomaugeri/marcellomaugeri/blob/output/github-contribution-grid-snake-dark.svg)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcellomaugeri&layout=compact&langs_count=10&theme=transparent)
-
 ![](https://github-readme-stats.vercel.app/api?username=marcellomaugeri&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide=issues)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=marcellomaugeri&theme=transparent)](https://github.com/ryo-ma/github-profile-trophy)
