@@ -1,9 +1,6 @@
-Hello, I'm Marcello, a PhD student in Computer Science at the University of Catania.
-I am passionate about automated security testing for software and systems, with a focus on developing tools and techniques to improve the automation of security testing processes.
-My current research project focuses on improving coverage-guided fuzzing for multi-process Linux applications, with the aim of increasing the effectiveness of fuzz testing in identifying security vulnerabilities.
-However, I am actively exploring other areas such as fuzzing IoT devices or fuzzing web applications, including the use of AI/ML techniques to improve the efficiency and effectiveness of fuzz testing.
-I am driven by curiosity and a desire to learn, and I am always looking for new challenges and opportunities to expand my knowledge and skills.
-My ultimate goal is to contribute to the development of more automated security testing tools and techniques that can help organisations better protect their systems and data from security threats.
+Hello, I'm Marcello, Founding Member and Senior Cybersecurity Research Engineer at CybPass.
+I work on automotive cybersecurity, AI assurance, standards, and compliance for software-intensive and safety-critical systems.
+I hold a PhD in Computer Science from the University of Catania, where my research focused on improving security testing techniques, including fuzzing of multi-process software in Linux, GraphQL API testing, and other approaches for advancing the automation and effectiveness of security testing.
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:marcello.maugeri@phd.unict.it)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcello-maugeri/)
@@ -15,9 +12,3 @@ My ultimate goal is to contribute to the development of more automated security 
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/maray97)
 
 ![Snake animation](https://github.com/marcellomaugeri/marcellomaugeri/blob/output/github-contribution-grid-snake-dark.svg)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcellomaugeri&layout=compact&langs_count=10&theme=transparent)
-![](https://github-readme-stats.vercel.app/api?username=marcellomaugeri&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide=issues)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=marcellomaugeri&theme=transparent)](https://github.com/ryo-ma/github-profile-trophy)
-
