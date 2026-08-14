@@ -1,5 +1,4 @@
-Hello, I'm Marcello, Founding Member and Senior Cybersecurity Research Engineer at CybPass.
-I work on automotive cybersecurity, AI assurance, standards, and compliance for software-intensive and safety-critical systems.
+I research and build security testing tools that break complex software systems. My research sits at the intersection of cybersecurity, software engineering, and AI, spanning coverage-guided fuzzing, GraphQL security testing, and AI security, with recent work on the adversarial evaluation of VLMs and VLA models. In my spare time, I step outside my comfort zone by competing in and winning hackathons across AI, DeFi, and blockchain, challenging myself with difficult problems in unfamiliar domains.
 I hold a PhD in Computer Science from the University of Catania, where my research focused on improving security testing techniques, including fuzzing of multi-process software in Linux, GraphQL API testing, and other approaches for advancing the automation and effectiveness of security testing.
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:marcello.maugeri@phd.unict.it)
